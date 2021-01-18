@@ -18,7 +18,7 @@ curl -F "algo=sha256" -F "file=@/path/to/file" localhost:8080
 #### Response
 f40e9648703a92954f1dc02534a22529d3b0e705aab87253a0e54bff4ed28e67
 
-#### Algorithms
+## Algorithms
 Array
 (
     [0] => md4
